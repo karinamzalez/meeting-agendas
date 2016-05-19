@@ -15,16 +15,16 @@
    
 * 12:50-01:00    Choose groups for work time
  * mapping work  
-  `replace with name ex: July`  
-  `replace with name ex: Patrick`
-  `replace with name ex: Karina`
+  `July`  
+  `Patrick`
+  `Karina`
  * rails work google api(this might be finished)  
-  `replace with name ex: nonaps`  
-  `replace with name ex: Sonia`  
+  `nonaps`  
+  `Sonia`  
  * rails work creating methods for calculations using presenters, or a model  
-  `replace with name ex: Thom`  
-  `replace with name ex: Kerry` 
-pending: Marina and Deb and maybe Andrew
+  `Thom`  
+  `Kerry` 
+pending: Marina, Deb, Erin, and maybe Andrew
 
 ## MEETING NOTES:
 * Everyone should feel free to openly articulate why they are here. 
