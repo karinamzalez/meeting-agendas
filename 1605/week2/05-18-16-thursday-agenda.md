@@ -3,6 +3,9 @@
 ### Kickoff @ 12:00
 
  * 12:05-12:20:  Goals for the posse this module - personal and collective
+    *  1 technical skill you'd like the opportunity to work on
+    *  1 soft skill you'd like the opportunity to work on and/or 1 experience you'd like to have
+    *  1 collective goal you'd like to be a part of
  * 12:20-12:25:  Planning for our work sessions/attendence
  * 12:25-12:40:  Explore the code base - Get familiar with the project
  * 12:40-12:50:  Goals for Fri - what can we expect to accomplish?
