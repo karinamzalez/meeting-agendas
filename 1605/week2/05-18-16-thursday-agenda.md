@@ -15,20 +15,16 @@
    
 * 12:50-01:00    Choose groups for work time
  * mapping work  
-  `replace with name ex: nonaps`  
-  `replace with name ex: nonaps`  
- * research into cost of living for individual neighborhoods in denver  
-  `replace with name ex: sonia`  
-  `replace with name ex: sonia`  
+  `replace with name ex: July`  
+  `replace with name ex: Patrick`
+  `replace with name ex: Karina`
  * rails work google api(this might be finished)  
-  `replace with name ex: karina`  
-  `replace with name ex: karina`  
- * find api to find cost of living in denver based on individual neighborhood. Read documentation, create dummy app to play    around with getting api working  
-  `replace with name ex: july`  
-  `replace with name ex: july`  
+  `replace with name ex: nonaps`  
+  `replace with name ex: Sonia`  
  * rails work creating methods for calculations using presenters, or a model  
-  `replace with name ex: marina`  
-  `replace with name ex: marina`  
+  `replace with name ex: Thom`  
+  `replace with name ex: Kerry` 
+pending: Marina and Deb and maybe Andrew
 
 ## MEETING NOTES:
 * Everyone should feel free to openly articulate why they are here. 
