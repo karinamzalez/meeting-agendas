@@ -22,3 +22,16 @@
 
 * 4:10 Work time(45 mins)
 * 4:55 Give weekend farewells and then get out of here
+
+* 12:50-01:00    Choose groups for work time
+ * mapping work  
+  `July`  
+  `Patrick`  
+  `Karina`  
+ * rails work google api(this might be finished)  
+  `nonaps`   
+  `Sonia`    
+ * rails work creating methods for calculations using presenters, or a model  
+  `Thom`  
+  `Kerry`   
+pending: Marina, Deb, Erin, and maybe Andrew
