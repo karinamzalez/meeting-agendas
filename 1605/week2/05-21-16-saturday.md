@@ -6,7 +6,7 @@
 ### Kickoff @ 11:00
 
 * 11:05-11:15 Recap on progress from yesterday
-* 11:15-11:25 Go over teams make adjustements if necessary
+* 11:15-11:25 Go over teams, make adjustements if necessary
 
 ### Work Time
 * 11:25-01:00 Work Time, take breaks as needed
