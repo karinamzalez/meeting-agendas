@@ -17,3 +17,4 @@
   
   * 02:50 - 03:20: Intro to wireframes, CSS, HTML
   * 03:20 - 03:50: Work in smalll groups to style app
+  * 03:30 - 04:00: Report back/showcase 
