@@ -1,4 +1,4 @@
-# Friday 5-20-2016 Pahlka Posse Meeting Agenda
+# Friday 5-27-2016 Pahlka Posse Meeting Agenda
 
 
 * 02:30-02:45 Intro to Pahlka Posse
