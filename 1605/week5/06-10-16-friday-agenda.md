@@ -16,3 +16,15 @@
 ### Wrap up
 
 * 03:35-03:40 As a group decide on a start point to for Pahlka in 1606
+
+### Notes 
+* Super helpful Zillow dataset acquired from hackathon(dataset is updated monthly and pertains to monthly rent rates per neighborhood0
+* July needs to contact mentor inquiring about new version of App (React).  
+* Worked with React framework during hackathon 
+
+## What we're working on today: 
+* Refactoring Logic out of analyst:
+ 
+
+## 
+* for next time:  look into Kerry's hash suggestion (comment explaining this is within neighborhood_analyst.rb)
