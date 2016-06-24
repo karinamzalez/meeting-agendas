@@ -2,7 +2,7 @@
 
 ### Kickoff @ 12:00
 
- * 12:05-12:10:  Share: 1 thing Pahlka should continue, 1 think Pahlka could improve   
+ * 12:05-12:10:  Share: 1 thing Pahlka should continue, 1 thing Pahlka could improve   
  * 12:10-12:15:  Review proposed Pahkla meeting format for module
  * 12:15-12:40:  Discuss: goals for Neighborhome for the module
      * What can/should we accomplish this module on Neighborhome
