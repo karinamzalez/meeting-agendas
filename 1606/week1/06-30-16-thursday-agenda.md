@@ -7,6 +7,7 @@
  * 12:10-12:20:  Review proposed meeting schedule for module; availabilty of each member
 
  * 12:20-12:40:  Discuss: goals for Neighborhome for the module
+
      * What can/should we accomplish this module on Neighborhome
      * What will it take to accomplish those goals (time, resources, other)
      * What is a reasonable timeframe for each goal?
