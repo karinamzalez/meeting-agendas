@@ -29,3 +29,29 @@
 
   *   Tomorrow - Dan - guest speaker, then "regular" meeting.  
   *   Other...
+
+
+## Notes: 
+
+* We're looking through NeighborHome and deciding whether or not we want to continue that. 
+* Patrick proposes that he is always open for questions on the slack channel bc ppl might not have particular problems set aside on Monday.
+* We're going to assign mentors to Mod 1 students. 
+* Thursdays are alternating work and social.(going to Denver eats next week) 
+* Working until 5 on Fridays(key work time)
+* Everybody commited to attending at least one out of the two weekend meetings
+* If you can't see your mod 1 mentee simply ask another Pahlka member to cover for you
+
+#### On Neighborhood App
+* Kerry suggests that we implement the Zillow neighborhood database and that we update the maps accordingly
+* Tommasina suggests that we push to implement the public transit information. 
+* Tommasina suggests getting feedback from potential users 
+* The use of waffle cards has been proposed in order to solve disorgnization when approaching a project
+*  Andrew proposes that we tell people what they are going to work on the night before actually working on said thing 
+*  Ilana would like to see better pull request notes and comments  
+*  One plausible solution to the disorganization is to have assigned teams speacializing in one particular section 
+*  Taking care of dividing people in their appropriate sections tomorrow 
+
+#### Oon Potential New Project
+* discussed the potential of contributing to an existing open source civic tech project. 
+* Sonia suggested that we continue to maintain the good documentaion of NeighborHome and how it works -- How can we explain it to Mod 1 students?
+* We're just sticking with NeighborHome 
