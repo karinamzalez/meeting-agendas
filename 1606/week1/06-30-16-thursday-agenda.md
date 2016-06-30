@@ -26,3 +26,6 @@
     * Decide: Go/no-go on additional project
 
 * 12:55-1:00:  Next steps
+
+  *   Tomorrow - Dan - guest speaker, then "regular" meeting.  
+  *   Other...
